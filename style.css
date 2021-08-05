@@ -372,6 +372,10 @@ nav.show .icon-close {
   color: var(--base-color);
 }
 
+.card i:hover{
+  transform: scale(1.2);
+}
+
 .card .title {
   font-size: 1.5rem;
   margin-bottom: 0.75rem;
